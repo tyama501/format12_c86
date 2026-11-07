@@ -1,0 +1,5 @@
+format12
+makfat12
+*.as
+*.i
+*.o
