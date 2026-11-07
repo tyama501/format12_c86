@@ -8,4 +8,4 @@ ELKS上のC86コンパイラでビルドできます。
 
 FAT作成に1232kB 2HDはmakfat12を用います。  
 
-1200kB 2HCはELKS標準のmkfatを用います。(DOSでは読めなそう)  
+1200kB 2HCはELKS標準のmkfatを用います。(この2HCはDOSでは読めなそう)  
